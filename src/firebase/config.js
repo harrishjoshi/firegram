@@ -1,16 +1,16 @@
 // firebase version 7.16.1
-import * as firebase from 'firebase/app';
-import 'firebase/storage';
-import 'firebase/firestore';
+import * as firebase from "firebase/app";
+import "firebase/storage";
+import "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-	apiKey: '',
-	authDomain: '',
-	projectId: '',
-	storageBucket: '',
-	messagingSenderId: '',
-	appId: '',
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
 };
 
 // Initialize Firebase
